@@ -11,6 +11,7 @@ import me.chanjar.weixin.mp.bean.guide.WxMpGuideList;
  * @date 2020 -10-06
  */
 public interface WxMpGuideService {
+
   /**
    * 为服务号添加顾问
    * <pre>
